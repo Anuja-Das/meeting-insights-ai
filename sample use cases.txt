@@ -1,0 +1,57 @@
+Fix login bug.
+Amit will do it.
+Deadline tomorrow.
+
+
+Deployment is blocked due to pending infra approval.
+Raj will follow up with infra team.
+Release deadline is next Friday.
+
+
+Frontend is complete.
+Backend APIs are still pending, Ravi will finish in 3 days.
+QA team is waiting for stable build.
+Deployment depends on infra approval.
+
+
+Requirements are not very clear.
+Some discussion around performance improvements.
+No one is assigned yet.
+Deadline is not decided.
+
+
+okay so api is kinda slow
+raj said he'll check db maybe by wed
+deployment blocked again infra team issue
+not sure about final deadline
+some requirements still confusing honestly
+
+
+Rahul completed login module.
+Priya is working on payment integration, will finish by Thursday.
+There is a blocker with third-party API timeout.
+Testing delayed due to environment issues.
+
+
+We discussed improving system performance and scalability.
+No concrete decisions were made.
+
+
+Amit will fix login bug by tomorrow.
+Neha will update documentation by Friday.
+Raj will optimize database queries.
+Deployment blocked due to infra approval.
+Requirements unclear for reporting module.
+QA team waiting for stable build.
+
+
+Weekly Product & Engineering Sync – May 5
+We started with discussion on API performance issues. Client has raised concerns that response times are too high during peak hours. Raj mentioned that database queries might be the bottleneck and he will analyze slow queries and share findings by Wednesday.
+Anita walked us through the new dashboard UI designs. Final tweaks are pending based on feedback from the product team. She will finalize designs by Monday.
+There is a dependency on the analytics team for the data pipeline required for the dashboard feature. Currently no confirmed timeline from their side, which might impact our release.
+Deployment is currently blocked due to pending infra approval. Suresh said he will follow up with the infra team but no clear ETA yet.
+QA team reported that testing is delayed because the latest build is unstable. They need a stable build before proceeding with regression testing.
+We also discussed scalability concerns. The system might not handle high traffic during upcoming campaign. No concrete action decided yet, but this needs attention.
+There was some confusion around reporting module requirements. Product team needs to clarify exact filters and metrics expected.
+Release is tentatively planned for end of this month, but timelines look tight considering current blockers.
+No clear owner was assigned for monitoring setup post-deployment.
